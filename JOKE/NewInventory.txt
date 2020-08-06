@@ -12,8 +12,8 @@ Chaos Insurgency Access Device
 God Keycard
 Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
 COM-15 Sidearm:No description
-First AID Kit:Heals your injuries.
-Flashlight:Let there be light!
+Zipper:Heals your injuries.
+Flashlight:Let there be crash!
 Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
 SCP-500:The panacea.
 SCP-207:Harmfully increases motor skills.
@@ -25,12 +25,12 @@ MP7:No description
 Logicer:No description
 Frag Grenade:Useful in the elevator....
 Flashbang Grenade:Blinds your friend....
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
+Fucker:Useful to gangbang D-boi.
 Dropped 7.62:No description.
 Dropped 9mm:No description.
-USP:No description.
+One tap:No description.
 SCP-018:Superball able to bounce with extreme efficiency.
 SCP-268:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
-Adrenaline:Temporarily increases endurance.
+Cocaine:Temporarily increases endurance.
 Painkillers:Relieve minor injuries.
 Coin:Admin got your bag, or not.
