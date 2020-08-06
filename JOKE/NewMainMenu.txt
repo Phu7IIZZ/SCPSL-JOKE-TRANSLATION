@@ -60,11 +60,11 @@ Back
 This change will require a reload.\nReload the menu now?
 Yes
 No
-Are you sure you want to quit?
+Are you sure about that?
 Screen Resolution
 Hide IP
-Welcome back, {username}!
-Credits
+Welcome {username}, please bring some 420-J.
+Fucking
 AUTHENTICATING
 Connecting to central servers...
 <color=green>Connection established</color>
