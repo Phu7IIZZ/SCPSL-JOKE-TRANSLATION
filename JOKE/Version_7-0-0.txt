@@ -1,5 +1,0 @@
-YOU OOFED
-Press {KEYBINDING_INTERACTION} to place the <color=yellow>Ipad 3000</color>.
-Press {KEYBINDING_INTERACTION} to pick up the <color=yellow>Ipad 3000</color>.
-This <color=yellow>workstation</color> already has someone else's <color=yellow>Ipad 3000</color> connected.
-You need a <color=yellow>Ipad 3000</color> to use this <color=yellow>workstation</color>.
