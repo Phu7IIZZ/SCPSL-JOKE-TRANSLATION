@@ -3,20 +3,20 @@ Douchebag Keycard:No description
 Research Supervisor Keycard:No description
 Zone Manager Keycard:No description
 Boring AF Keycard:No description
-MTF Cadet Keycard:No description
-Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
-Facility Manager Keycard:No description
-Chaos Insurgency Access Device
+Recruit DS Keycard:No description
+Homies Keycard:No description
+DS Keycard:No description
+Senior DS Keycard:No description
+Gay Keycard:No description
+Mainboard
 God Keycard
-Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
+REEEdio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
 COM-15 Sidearm:No description
 Zipper:Heals your injuries.
 Flashlight:Let there be crash!
-Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-SCP-500:The panacea.
-SCP-207:Harmfully increases motor skills.
+Micro H.I.D.:HAHA MICRO GOES BRRR
+SCP-500:HEALLLLLL
+SCP-207:Tasty
 Ipad 3000:Used to drop ammo & upgrade your weapons.
 MTF-E11-SR:No description
 Project 90:No description
@@ -25,12 +25,12 @@ MP7:No description
 Logicer:No description
 Frag Grenade:Useful in the elevator....
 Flashbang Grenade:Blinds your friend....
-Fucker:Useful to gangbang D-boi.
+Fucker:Use to gangbang D-boi.
 Dropped 7.62:No description.
 Dropped 9mm:No description.
 One tap:No description.
-SCP-018:Superball able to bounce with extreme efficiency.
-SCP-268:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
-Cocaine:Temporarily increases endurance.
-Painkillers:Relieve minor injuries.
-Coin:Admin got your bag, or not.
+SCP-018:HEY, wanna play dogeball?
+SCP-268:Whee tf is he?
+Cocaine:GOTTA GO FAST!
+Painkillers:Useless like your mom!
+Coin:Admin got your back, or not.
