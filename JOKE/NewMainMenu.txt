@@ -5,7 +5,7 @@ Die
 Social Media
 Public
 Pinned
-RIP Headphone
+RIP Headphone User
 History
 Hater
 Search Servers
@@ -55,7 +55,7 @@ SCP-079 - Toggle View Mode
 SCP-079 - Post-Processing
 Language
 Main Menu
-Connect
+Deploy
 Back
 This change will require a reload.\nReload the menu now?
 Yes
